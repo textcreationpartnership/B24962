@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King: A declaration. James R. Whereas we have issued our proclamation of the 21th day of January last past, for the encouragement of tillage and husbandry, ...</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24962</idno><idno type="EEBO-CITATION">99886416</idno>
+  <idno type="VID">186671</idno>
+  <idno type="EEBO-PROQUEST">2264216038</idno>
+  
+            <idno type="STC">Wing J176</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[96]</idno>
+            <idno type="STC">Interim Tract Supplement Guide G.6022[106]</idno>
+            <idno type="STC">ESTC R225985</idno>
+            <idno type="PROQUEST">ocm99886416</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886416e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24962)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186671)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[96]; C23:1[106])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King: A declaration. James R. Whereas we have issued our proclamation of the 21th day of January last past, for the encouragement of tillage and husbandry, ...</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>2 sheets ([3] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for alderman James Malone bookseller in Skinner-Row, and printer to the King's most excellent Majesty;,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1689 [i.e. 1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption title and opening lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at our court at Dublin Castle the 18th day of February, 1689."</note>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>Concerning the letting of forfeited lands, &amp;c. Cf. Steele.</note>
+                  <note>Arms 186.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Estates (Law) --  Ireland --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:186671:1"/>
+            <head>BY THE KING: A DECLARATION.</head>
+            <opener>
+               <signed>JAMES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS We have issued Our Proclamation of <hi>21th</hi> day of <hi>January</hi> last past, for the encouragement of Tillage and Husbandry, wherein among other things conducing thereunto, We have declared that We would give directions unto Our Commissioners of Our Revenue to set all such Lands as are now in Our disposal, to such as will bid fairest for the promoting of Tillage, and encrease of Corn and Hay; And whereas we are informed that several abuses have been committed in disposing of, imbezelling, and concealing the Stocks, and other Goods and Chattels forfeited to us in the several parts of this Kingdom by Absentees and Attainted persons, and by detaining and concealing several Horses pretended to be seized upon for the use of our Troops. VVe have there<g ref="char:EOLhyphen"/>fore thought fit hereby to publish and declare, that our VVill and Pleasure is, that three of our said Commissioners of our Revenue, shall forthwith go into
+<pb facs="tcp:186671:2"/> the several Counties of <hi>Wexford, Kilkenny, Tipperary, Waterford,</hi> County of the City of <hi>Waterford,</hi> County of <hi>Cork,</hi> and County of the City of <hi>Cork,</hi> County of <hi>Lymerick,</hi> and County of the City of <hi>Lymerick,</hi> Counties of <hi>Kerry</hi> and <hi>Clare, Kings-County,</hi> County of <hi>Gallway,</hi> and County of the Town of <hi>Gallway, Counties</hi> of <hi>Mayo, Sligo, Roscommon, Longford,</hi> and <hi>Leitrim;</hi> in all which <hi>Counties</hi> they are to make dili<g ref="char:EOLhyphen"/>gent Enquiry after such Lands and Tenements as are forfeited to, or vested in us by the Absence or Attainder of any person or persons whatsoever, and to sett the same during Our Will and Pleasure, and no longer, wherein they are to give the Preference to such Reprizable persons as have lost their late Estates by the late Statute of <hi>Repeal,</hi> and to sett them no more than <hi>Lands</hi> of equal value with what they are to be <hi>Reprized</hi> for, wherein they are to tye them to such <hi>Covenants</hi> for Hay and Oats, and for sowing of Hemp and Flax as the case will require, and to reserve upon them but a fourth part of the full improved Rents above Subsidies and Taxes: And where our said Commissioners shall find that any people have entred upon any such forfeited Lands without just Title, they are to dispossess them, and sett the same to our use. And our further Will and Pleasure is, that the said <hi>Commissioners</hi> shall in the said several <hi>Counties</hi> make diligent Enquiry after all Goods forfeited to us as aforesaid, and after all Horses seized upon pretence of our Service, and not actually delivered in for the use of our Troops, wherein if any person whatso<g ref="char:EOLhyphen"/>ever will discover any such forfeited Goods not already discovered, or any Go<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s that have been seized, and afterwards stolen or imbezelled, or where any such Goods have been bought in trust for the persons concerned in such seizures, or sold by them to any their Friends at apparent under values, or where they ex<g ref="char:EOLhyphen"/>changed the Stocks or Goods seized for other Cattel of a worse sort, for the benefit of themselves or their Friends and where they finde any <hi>Horses</hi> Seiz<g ref="char:EOLhyphen"/>ed, and not brought to Our Service, or discover any Debts, not already Disco<g ref="char:EOLhyphen"/>vered, and not remaining on Record in all such and the like Cases, the said Com<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ioners are to give a Fourth part of the Party discovering, which they are to Pay him in money, or allow it him in specie at his Election (except where Ser<g ref="char:EOLhyphen"/>viceable <hi>Horses</hi> are Discovered in which Case they are to pay him the Fourth part in value) and where any Information is Given in this behalf against any Officers of Our Army. Our Will and Pleasure is that the said Commissioners do Summon them to appear before them, in order to proceed against them as a<g ref="char:EOLhyphen"/>gainst others, But in Case such Officers do not appear, then the said Commissi<g ref="char:EOLhyphen"/>oners are to proceed and Return the Records of their proceedings into Our Court of Exchequer to the intent that Process may Issue thereupon in due time against the Body, Goods, and Lands of such Officers; And Our further Will and Pleasure is that the other Three of Our said Commissioners of Our Revenue shall forth<g ref="char:EOLhyphen"/>with proceed in setting of Forfeited Lands, and enquiring after Forfeited Goods, and after <hi>Horses</hi> Seized to Our use, and not brought into Our <hi>Troops</hi> as aforesaid, according to the methods and rules aforesaid In all other parts of this Our King<g ref="char:EOLhyphen"/>dom, wherein the Forfeited Lands of all the said last mentioned parts of Our said Kingdom, are to be set in Our City of <hi>Dublin</hi> according to the aforementio<g ref="char:EOLhyphen"/>ned methods; And Our further Will and Pleasure is that Our said Commissio<g ref="char:EOLhyphen"/>ners shall diligently enquire after the Estates of the Earls of <hi>Thomond</hi> and <hi>Kildare</hi> and likwise of Minors and of such Absentees as have not Forfeited their Estates by attainder or otherwise and bring the <hi>Agents</hi> or <hi>Receivers</hi> who intermeddle therewith, to an account, and likewise to settle the said Estates in such manner as that the Issues and Profits thereof may be answered to us during such absence
+<pb facs="tcp:186671:3"/> wherein as we do not intend to withdraw Our Former Grace and Favour from any of the said persons, so we Conceive it is for their advantage, as well as for the Common good at this time, that we should cause Care to be taken of their said E<g ref="char:EOLhyphen"/>states, and the Profits thereof, to be Imployed for the publick Defence: And Our further will and pleasure is that the said Commissioners shall give publick No<g ref="char:EOLhyphen"/>tice of the times of their sitting, and that all <hi>Sheriffs</hi> and other <hi>Officers</hi> shall be Aid<g ref="char:EOLhyphen"/>ing and Assisting to them in the Execution of these Our Commands.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Dublin</hi> Castle <date>the 18th day of <hi>February,</hi> 1689. And in the Sixth Year of Our Reign.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>TYRCONNELL.</item>
+                     <item>RIVERSTON.</item>
+                     <item>Buno TALBOT.</item>
+                     <item>Stephen RICE.</item>
+                  </list>
+               </signed>
+            </closer>
+            <closer>God Save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DƲBLIN,</hi> Printed for Alderman <hi>James Malone</hi> Bookseller <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>Skinner-Row,</hi> and Printer to the King's most Excellent Majesty; 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
